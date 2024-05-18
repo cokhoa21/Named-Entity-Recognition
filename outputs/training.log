@@ -1,0 +1,27 @@
+Build model ...
+Prepare dataset ...
+==============================Summary==============================
+MODEL:
+	BERT model: bert-base-multilingual-cased
+	Number of parameters: 182585866
+DATASET:
+	Number of train Examples: 11513
+	Number of eval Examples: 5346
+	Number of labels: 9
+Hyper-Parameters:
+	Max sequence length: 128
+	Learning rate: 2e-05
+	Number of epochs: 100.0
+	Train batch size: 64
+	Eval batch size: 64
+	Adam epsilon: 1e-08
+	Weight decay: 0.0
+	Warmup Proportion: 0.1
+	Max grad norm: 1.0
+	Gradient accumulation steps: 1
+	Seed: 42
+	Cuda: True
+	Feat config: None
+	Use one-hot embbeding: False
+	Output directory: outputs
+==============================Epoch 0==============================
