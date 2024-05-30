@@ -1,6 +1,6 @@
 <h1 align="center">Vietnamese NER using BERT (bert-vn-ner)</h1>
 
-Code by **Trong-Dat Ngo**.
+Code by **Co Huy Khoa**.
 
 ## Introductions
 Pytorch implementation of BERT models to perform named entity recognition (NER) for Vietnamese. Besides, the features in word are also used to represent words. This system using pretrained model from 
